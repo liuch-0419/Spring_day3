@@ -32,5 +32,6 @@ public class TestCGLIB {
         //创建代理对象
         UserServiceImpl userService1= (UserServiceImpl) enhancer.create();
         userService1.register();
+        S.mt.t(n)i-----------anjr;intpuoeys
     }
 }
